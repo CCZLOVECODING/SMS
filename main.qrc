@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/password.ico</file>
+        <file>icon/username.ico</file>
+        <file>icon/show.ico</file>
+        <file>icon/noshow.ico</file>
+        <file>icon/quit.ico</file>
+    </qresource>
+</RCC>
